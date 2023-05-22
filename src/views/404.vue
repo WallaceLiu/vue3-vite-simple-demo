@@ -22,8 +22,8 @@ export default {
       router.push("/home");
     };
     return {
-      toHome
+      toHome,
     };
-  }
+  },
 };
 </script>
